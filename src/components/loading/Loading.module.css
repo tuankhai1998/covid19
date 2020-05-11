@@ -1,0 +1,16 @@
+.loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e5eff1;
+    transition: all .25 ease-in-out .1;
+}
+
+.loading>img {
+    width: 10%;
+}

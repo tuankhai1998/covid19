@@ -1,0 +1,15 @@
+.section {
+    padding: 2rem 0 5rem 0;
+}
+
+.recovered {
+    border-bottom: 10px solid #00A878;
+}
+
+.confirmed {
+    border-bottom: 10px solid #F3C178;
+}
+
+.deaths {
+    border-bottom: 10px solid #FE5E41;
+}

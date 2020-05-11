@@ -1,0 +1,11 @@
+.container {
+    background: #e5eff1;
+    min-height: 100vh;
+}
+
+.Logo {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
